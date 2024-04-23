@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=loentc&style=flat-square&color=blue" alt=""/>
 </div>
 
-### ✨ I'm a Junior Software Developer, Back-End Developer ✨
+### ✨ I'm a Junior Software Developer, Back-End Developer ,Full stack Developer ✨
 
 - ⚡ I’m currently learning backend stack tools 🔭
 
